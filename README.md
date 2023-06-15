@@ -1,5 +1,5 @@
 # Vicentaco.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>VC Gaming</title>
