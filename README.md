@@ -11,13 +11,16 @@
     <h2>Index</h2>
     <ol>
         <li>Community Events</li>
-        <li>Competitive Gaming</li>
+        <li>Games</li>
     </ol>
 
     <h3>Community Events</h3>
     <p>Join our regular community events where we come together to play games and have fun!</p>
 
-    <h3>Competitive Gaming</h3>
-    <p>Participate in our competitive gaming tournaments and showcase your skills against other players.</p>
+    <h3>Games</h3>
+        <h4>Jumping Man</h4>
+        <h4>Clicker Game</h4>
+        <h4>Flying Man</h4>
+    
 </body>
 </html>
