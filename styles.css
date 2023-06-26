@@ -69,6 +69,7 @@ hr {
 }
 .logo {
   flex: 0 0 auto; /* Add this property */
+  margin-right: 2000px;
 }
 
 .logo img {
@@ -78,7 +79,7 @@ hr {
 
 .title {
   text-align: center;
-  margin-right: 2000px;
+  
 }
 
 .social-icons {
