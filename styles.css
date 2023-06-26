@@ -58,13 +58,13 @@ hr {
 }
 .logo {
   float: left;
-  margin-right: 10px; /* Adjust the margin as desired */
+   /*margin-right: 10px; Adjust the margin as desired */
 }
 
 .title {
   display: inline-block;
   vertical-align: middle;
-  margin-left: 80px; /* Adjust the margin as desired */
+   /*margin-left: 80px; Adjust the margin as desired */
 }
 
 .logo img {
