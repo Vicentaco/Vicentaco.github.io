@@ -65,8 +65,8 @@ hr {
   margin: 20px 0;
 }
 .blank {
-   width: 60px;
-   height: 70px;
+   width: 65px;
+   height: 7px;
 }
 .logo {
   flex: 0 0 auto; /* Add this property */
