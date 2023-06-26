@@ -27,7 +27,6 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
   background-color: #fff;
   max-width: 800px;
 }
@@ -65,7 +64,7 @@ hr {
   margin: 20px 0;
 }
 .blank {
-   width: 70px;
+   width: 50px;
    height: 70px;
 }
 .logo {
@@ -84,7 +83,6 @@ hr {
 
 .social-icons {
   display: flex;
-  padding-right: 30px;
   align-items: center;
 }
 
