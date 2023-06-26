@@ -59,10 +59,13 @@ hr {
 .logo {
   display: flex;
   align-items: center;
+  margin-right: 10px; /* Adjust the margin as desired */
 }
 
 .title {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .logo img {
