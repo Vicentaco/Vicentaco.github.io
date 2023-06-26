@@ -65,8 +65,8 @@ hr {
   margin: 20px 0;
 }
 .blank {
-   width: 65px;
-   height: 7px;
+   width: 70px;
+   height: 70px;
 }
 .logo {
   flex: 0 0 auto; /* Add this property */
@@ -85,6 +85,7 @@ hr {
 .social-icons {
   display: flex;
   justify-content: center;
+  margin-right: 10px;
   align-items: center;
 }
 
