@@ -1,16 +1,59 @@
-h1 {
-    color: blue;
-  }
-  
-  button {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #45a049;
-  }
+
+.logo {
+  float: left;
+}
+
+.title {
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.section-title {
+  text-align: center;
+}
+
+.game {
+  margin-bottom: 20px;
+}
+
+.game-description {
+  margin-bottom: 10px;
+}
+
+.game-images {
+  text-align: right;
+}
+
+.description {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.about-us {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.social-links {
+  list-style-type: none;
+  padding: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-right: 10px;
+}
