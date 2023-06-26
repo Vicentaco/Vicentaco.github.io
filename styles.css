@@ -69,7 +69,7 @@ hr {
 }
 .logo {
   flex: 0 0 auto; /* Add this property */
-  margin-right: 200px;
+  margin-right: 240px;
 }
 
 .logo img {
