@@ -55,6 +55,7 @@ hr {
 .logo {
   display: inline-block;
   vertical-align: middle;
+  margin-right: 10px; /* Adjust the margin as desired */
 }
 
 .logo img {
