@@ -8,7 +8,9 @@
     <div class="logo">
       <img src="logo.png" alt="Logo">
     </div>
-    <h1 class="title">VC Gamees</h1>
+    <div class="title">
+      <h1>VC Gamees</h1>
+    </div>
     <nav>
       <ul>
         <li><a href="games.html">Games</a></li>
@@ -18,30 +20,7 @@
   </header>
 
   <div class="content">
-    <h2 class="section-title">Games by VC Gaming</h2>
-    <hr>
-    <div class="game">
-      <h3>Game 1</h3>
-      <div class="game-description">
-        <!-- Add game description here -->
-      </div>
-      <div class="game-images">
-        <img src="game1_image1.png" alt="Game 1 Image 1">
-        <img src="game1_image2.png" alt="Game 1 Image 2">
-      </div>
-    </div>
-    <hr>
-    <div class="game">
-      <h3>Game 2</h3>
-      <div class="game-description">
-        <!-- Add game description here -->
-      </div>
-      <div class="game-images">
-        <img src="game2_image1.png" alt="Game 2 Image 1">
-        <img src="game2_image2.png" alt="Game 2 Image 2">
-      </div>
-    </div>
-    <!-- Repeat the above structure for other games -->
+    <!-- Add the game content here -->
   </div>
 
   <div class="description">
