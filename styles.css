@@ -44,7 +44,11 @@ body {
 }
 
 .game-images img {
-  margin: 10px;
+  margin: 20px;
+}
+img {
+  max-width: 220px;
+  max-height: 220px;
 }
 
 hr {
@@ -55,7 +59,7 @@ hr {
 .logo {
   display: inline-block;
   vertical-align: middle;
-  margin-right: 10px; /* Adjust the margin as desired */
+  margin-right: 30px; /* Adjust the margin as desired */
 }
 
 .logo img {
