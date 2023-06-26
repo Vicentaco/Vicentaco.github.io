@@ -57,17 +57,17 @@ hr {
   margin: 20px 0;
 }
 .logo {
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 60px; /* Adjust the margin as desired */
-}
-
-.logo img {
-  width: 70px;
-  height: 70px;
+  float: left;
+  margin-right: 10px; /* Adjust the margin as desired */
 }
 
 .title {
   display: inline-block;
   vertical-align: middle;
+  margin-left: 80px; /* Adjust the margin as desired */
+}
+
+.logo img {
+  width: 70px;
+  height: 70px;
 }
