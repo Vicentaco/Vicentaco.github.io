@@ -28,6 +28,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: space-between; /* Add this property */
   background-color: #fff;
   margin: 50px -50px;
   max-width: 800px;
@@ -68,7 +69,7 @@ hr {
 }
 
 .logo {
-  margin-right: 20px;
+  flex: 0 0 auto; /* Add this property */
 }
 
 .logo img {
@@ -77,8 +78,7 @@ hr {
 }
 
 .title {
-  display: flex;
-  align-items: left;
-  
+  flex: 1; /* Add this property */
+  text-align: center; /* Center the text */
 }
 
