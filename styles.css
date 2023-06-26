@@ -57,14 +57,15 @@ hr {
   margin: 20px 0;
 }
 .logo {
-  float: left;
-   /*margin-right: 10px; Adjust the margin as desired */
+  display: flex;
+  align-items: center;
 }
 
 .title {
-  display: inline-block;
-  vertical-align: middle;
-   /*margin-left: 80px; Adjust the margin as desired */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
 }
 
 .logo img {
