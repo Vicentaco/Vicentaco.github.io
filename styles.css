@@ -62,10 +62,7 @@ hr {
 }
 
 .title {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-grow: 1;
+  text-align: center;
 }
 
 .logo img {
