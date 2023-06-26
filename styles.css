@@ -52,3 +52,17 @@ hr {
   border-top: 1px solid black;
   margin: 20px 0;
 }
+.logo {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.logo img {
+  width: 70px;
+  height: 70px;
+}
+
+.title {
+  display: inline-block;
+  vertical-align: middle;
+}
