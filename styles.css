@@ -82,3 +82,9 @@ hr {
   text-align: center; /* Center the text */
 }
 
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
