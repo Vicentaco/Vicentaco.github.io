@@ -79,6 +79,6 @@ hr {
 .title {
   display: flex;
   align-items: left;
-  margin: 50;
+  margin: 20px 0px 0 -20px;;
 }
 
