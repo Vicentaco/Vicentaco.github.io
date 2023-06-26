@@ -78,16 +78,13 @@ hr {
 }
 
 .title {
-  /*flex: 1;
-   
-  */
-  flex: 0 0 auto;
+  padding-right: 30px;
   text-align: center;
 }
 
 .social-icons {
   display: flex;
-  margin-left: 40px;
+  padding-right: 30px;
   align-items: center;
 }
 
