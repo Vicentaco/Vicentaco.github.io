@@ -29,7 +29,6 @@ body {
   flex-direction: row;
   align-items: center;
   background-color: #fff;
-  margin: 20px auto;
   max-width: 800px;
   padding: 20px;
 }
@@ -79,6 +78,6 @@ hr {
 .title {
   display: flex;
   align-items: left;
-  margin: 20px 0px 0 -20px;;
+  
 }
 
