@@ -16,12 +16,10 @@ body {
 
 .container {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  background-color: #fff;
-  margin: 20px auto;
+  justify-content: flex-start;
   max-width: 800px;
-  padding: 20px;
+  margin: 20px auto;
 }
 
 .section-title {
@@ -56,19 +54,21 @@ hr {
   border-top: 1px solid black;
   margin: 20px 0;
 }
-.logo {
-  display: flex;
-  align-items: center;
-  margin-right: 10px; /* Adjust the margin as desired */
-}
 
-.title {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.logo {
+  margin-right: 20px;
 }
 
 .logo img {
   width: 70px;
   height: 70px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.title h1 {
+  margin: 0;
 }
