@@ -1,25 +1,17 @@
-
-.logo {
-  float: left;
-}
-
-.title {
-  text-align: center;
-}
-
-nav ul {
-  list-style-type: none;
+body {
+  background-color: #f0f0f0;
+  margin: 0;
   padding: 0;
-  text-align: center;
 }
 
-nav ul li {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-.content {
-  margin-top: 20px;
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
 }
 
 .section-title {
@@ -28,6 +20,7 @@ nav ul li {
 
 .game {
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .game-description {
@@ -35,25 +28,17 @@ nav ul li {
 }
 
 .game-images {
-  text-align: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.description {
-  margin-top: 20px;
-  text-align: center;
+.game-images img {
+  margin: 10px;
 }
 
-.about-us {
-  margin-top: 20px;
-  text-align: center;
-}
-
-.social-links {
-  list-style-type: none;
-  padding: 0;
-}
-
-.social-links li {
-  display: inline-block;
-  margin-right: 10px;
+hr {
+  border: none;
+  border-top: 1px solid black;
+  margin: 20px 0;
 }
