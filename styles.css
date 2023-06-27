@@ -1,7 +1,10 @@
-body {
-  background-color: #f7f7f7;
-  margin: 0;
-  padding: 0;
+.about-us {
+  font-family: "Lucida Console";
+}
+
+.blank {
+  width: 50px;
+  height: 70px;
 }
 
 .blank-page {
@@ -12,6 +15,12 @@ body {
   width: 100%;
   height: 100%;
   z-index: -1;
+}
+
+body {
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -31,17 +40,14 @@ body {
   max-width: 800px;
 }
 
-.section-title {
-  text-align: center;
+.description {
+  margin-bottom: 10px;
+  font-family: "Lucida Console";
 }
 
 .game {
   margin-bottom: 20px;
   text-align: center;
-}
-
-.description {
-  margin-bottom: 10px;
   font-family: "Lucida Console";
 }
 
@@ -54,20 +60,18 @@ body {
 .game-images img {
   margin: 20px;
 }
-img {
-  max-width: 220px;
-  max-height: 220px;
-}
 
 hr {
   border: none;
   border-top: 1px solid black;
   margin: 20px 0;
 }
-.blank {
-   width: 50px;
-   height: 70px;
+
+img {
+  max-width: 220px;
+  max-height: 220px;
 }
+
 .logo {
   flex: 0 0 auto; /* Add this property */
   margin-right: 240px;
@@ -78,11 +82,10 @@ hr {
   height: 70px;
 }
 
-.title {
+.section-title {
   text-align: center;
-  font-family: "Lucida Console";
-  
 }
+
 
 .social-icons {
   display: flex;
@@ -90,3 +93,8 @@ hr {
   margin-left: 6px;
 }
 
+.title {
+  text-align: center;
+  font-family: "Lucida Console";
+  
+}
