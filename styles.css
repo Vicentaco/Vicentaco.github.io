@@ -40,8 +40,9 @@ body {
   text-align: center;
 }
 
-.game-description {
+.description {
   margin-bottom: 10px;
+  font-family: "Lucida Console";
 }
 
 .game-images {
